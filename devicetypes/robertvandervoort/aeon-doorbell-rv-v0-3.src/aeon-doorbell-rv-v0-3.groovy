@@ -112,7 +112,7 @@
 		input "prefNumrings", "integer",
         	title: "Ring repetitions:",
             description: "How many times to ring per push of the doorbell",
-            defaultValue: 1,
+            defaultValue: 2,
             range: "1..100",
             required: false,
             displayduringSetup: true
